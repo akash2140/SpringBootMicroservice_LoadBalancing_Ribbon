@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: akash
+Build-Jdk: 17.0.1
+Implementation-Title: DeptService_Mono
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.akash
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/DeptService_Mono
+Created-By: Maven Integration for Eclipse
+
